@@ -1,0 +1,6 @@
+D:\C#\Tanks\Tanks\bin\Debug\Tanks.exe.config
+D:\C#\Tanks\Tanks\bin\Debug\Tanks.exe
+D:\C#\Tanks\Tanks\bin\Debug\Tanks.pdb
+D:\C#\Tanks\Tanks\obj\Debug\Day7(Tanks).csprojAssemblyReference.cache
+D:\C#\Tanks\Tanks\obj\Debug\Tanks.exe
+D:\C#\Tanks\Tanks\obj\Debug\Tanks.pdb
