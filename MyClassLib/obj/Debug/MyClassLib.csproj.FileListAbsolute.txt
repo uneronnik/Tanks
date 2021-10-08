@@ -1,0 +1,5 @@
+D:\C#\Tanks\MyClassLib\bin\Debug\MyClassLib.dll
+D:\C#\Tanks\MyClassLib\bin\Debug\MyClassLib.pdb
+D:\C#\Tanks\MyClassLib\obj\Debug\MyClassLib.csprojAssemblyReference.cache
+D:\C#\Tanks\MyClassLib\obj\Debug\MyClassLib.dll
+D:\C#\Tanks\MyClassLib\obj\Debug\MyClassLib.pdb

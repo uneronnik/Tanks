@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Tanks
+namespace MyClassLib.WorldOfTanks
 {
-    class Tank
+    public class Tank
     {
         private string _name;
         private int _ammunition;
